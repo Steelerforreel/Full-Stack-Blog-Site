@@ -35,4 +35,4 @@ User.hasMany(Comment, {
 
 
 
-module.exports = { User, Post, Comment };
+module.exports = { Comment, Post, User };
